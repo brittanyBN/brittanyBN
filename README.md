@@ -7,7 +7,7 @@ Backend Developer Student
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [brittany.bolling@aol.com](mailto:brittany.bolling@aol.com)
 * 🚀  I'm currently working on [SchoolSystem](http://github.com/brittanyBN/School-System)
-* 🧠  I'm learning C# .NET
+* 🧠  I'm learning Next.js, React, and Microsoft Azure 
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I enjoy hiking, running, climbing, and anything else active. Especially with my dog!
 
