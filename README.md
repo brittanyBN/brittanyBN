@@ -6,7 +6,7 @@ Backend Developer Student
 
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [brittany.bolling333@gmail.com](mailto:brittany.bolling333@gmail.com)
-* 🚀  I'm currently working on [SchoolSystem](http://github.com/brittanyBN/School-System)
+* 🚀  I'm currently working on [LoveShack](http://github.com/brittanyBN/LoveShack)
 * 🧠  I'm learning Python 
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I enjoy hiking, running, climbing, and anything else outdoors. Especially with my dog!
